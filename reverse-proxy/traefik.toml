@@ -13,7 +13,7 @@ defaultEntryPoints = ["https","http"]
     [entryPoints.https.tls]
       [[entryPoints.https.tls.certificates]]
       certFile = "/etc/certs/server.crt"
-      keyFile = "/etc/certs/server.key"
+      keyFile = "/etc/certs/server.pem"
 
 [docker]
 domain = "docker.local"
