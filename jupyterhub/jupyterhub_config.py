@@ -46,7 +46,7 @@ c.Spawner.cpu_limit = 1
 c.Spawner.mem_limit = '2G'
 
 # EXTRA
-c.JupyterHub.subdomain_host = 'https://jupyt3r.mat.uam.es'
+c.JupyterHub.subdomain_host = 'https://JUPYT3R'
 
 ## Services
 c.JupyterHub.services = [
