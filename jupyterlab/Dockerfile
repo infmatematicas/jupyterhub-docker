@@ -1,4 +1,4 @@
-FROM jupyter/scipy-notebook:137a295ff71b
+FROM jupyter/scipy-notebook:d39fb37995ce
 
 LABEL maintainer="Antonio Marti"
 
