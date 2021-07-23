@@ -1,6 +1,6 @@
 FROM jupyter/scipy-notebook:d39fb37995ce
 
-LABEL maintainer="Antonio Marti"
+LABEL maintainer="Jupyter"
 
 USER root
 
